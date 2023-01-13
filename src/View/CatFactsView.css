@@ -1,0 +1,9 @@
+.cat-facts-container {
+    display: flex;
+    border: 3px solid red;
+    justify-content:flex-start;
+    align-content: flex-start;
+    flex-flow: row wrap;
+    margin: 0 auto;
+    width: 80%;
+  }
